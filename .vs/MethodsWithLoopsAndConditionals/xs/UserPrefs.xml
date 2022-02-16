@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6A8DD0B9-3470-47D2-A2A0-CA63972813F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.MethodsWithLoopsAndConditionals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsWithLoopsAndConditionals/Program.cs">
+    <Files>
+      <File FileName="MethodsWithLoopsAndConditionals/Program.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodsWithLoopsAndConditionals" expanded="True">
+            <Node name="MethodsWithLoopsAndConditionals" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
