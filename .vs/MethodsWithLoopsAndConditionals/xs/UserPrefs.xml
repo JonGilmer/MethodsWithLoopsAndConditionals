@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{6A8DD0B9-3470-47D2-A2A0-CA63972813F4}|Default">
-  <MonoDevelop.Ide.ItemProperties.MethodsWithLoopsAndConditionals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MethodsWithLoopsAndConditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodsWithLoopsAndConditionals/Program.cs">
     <Files>
-      <File FileName="MethodsWithLoopsAndConditionals/Program.cs" Line="11" Column="6" />
+      <File FileName="MethodsWithLoopsAndConditionals/Program.cs" Line="2" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
